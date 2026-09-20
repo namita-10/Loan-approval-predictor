@@ -79,6 +79,3 @@ This project is developed for educational purposes.
 Predictions are based on a sample dataset and should not be
 used as the sole basis for real-world lending decisions.
 
-## Author
-Namita P
-B.Tech Information Technology
