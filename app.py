@@ -294,7 +294,7 @@ with left:
                 age = st.number_input(
                     "Age",
                     min_value=18,
-                    max_value=100,
+                    max_value=65,
                     value=25
                 )
 
